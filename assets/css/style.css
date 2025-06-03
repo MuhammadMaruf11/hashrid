@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Orbitron:wght@400..900&display=swap");
+
+/* default css start here  */
+
+@import url("./default.css");
+
+/* default css end here  */
+
+/* header css start here  */
+
+@import url("./header.css");
+
+/* header css end here  */
+
+/* home page css start here  */
+
+@import url("./main.css");
+
+/* home page css end here  */
+
+/* footer css start here  */
+
+@import url("./footer.css");
+
+/* footer css end here  */

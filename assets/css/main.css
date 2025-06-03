@@ -1,0 +1,201 @@
+/* banner css start  */
+.banner-area {
+  position: relative;
+}
+
+.banner-shape-1 {
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.banner-shape-4 {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  max-width: 600px;
+}
+
+.banner-shape-5 {
+  position: absolute;
+  bottom: 85px;
+  right: 0;
+  max-width: 425px;
+}
+
+.banner-wrap {
+  max-width: 1155px;
+  margin: 0 auto;
+  border: 1px solid #999999;
+  border-radius: 29px;
+  padding: 32px 32px 20px;
+  position: relative;
+  background: linear-gradient(#18191b, #18191b00);
+  backdrop-filter: blur(15px);
+}
+
+.banner-inside-wrap {
+  border: 1px solid #999999;
+  border-radius: 8px;
+  padding: 13px 17px;
+}
+
+.banner-shape-2 {
+  position: absolute;
+  top: 72px;
+  left: 65px;
+  max-width: 415px;
+}
+
+.banner-shape-3 {
+  position: absolute;
+  top: 132px;
+  right: 30px;
+  max-width: 500px;
+}
+
+.banner-shape-6 {
+  position: absolute;
+  bottom: 145px;
+  left: -150px;
+  max-width: 210px;
+}
+
+.banner-shape-7 {
+  position: absolute;
+  top: 0;
+  right: -60px;
+  max-width: 210px;
+}
+
+.banner-shape-8 {
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1200px;
+}
+
+.banner-icon-wrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.icon-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border-radius: 50%;
+  width: 11.5px;
+  height: 11.5px;
+}
+
+.icon-item svg {
+  font-size: 12px;
+}
+
+.banner-heading {
+  margin-bottom: 80px;
+}
+
+.banner-heading h2 {
+  font-size: 55px;
+  font-family: var(--orbitron-font-family);
+  font-weight: 600;
+  text-align: center;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(90deg, #292929, #fff, #676767, #fff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  margin-bottom: 5px;
+}
+
+.banner-bar {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  max-width: 335px;
+  border-radius: 100px;
+  border: 1px solid var(--primary-color);
+  background: #2a6263;
+  padding: 2px 12px;
+  position: relative;
+  z-index: 1;
+}
+
+.banner-bar::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  background: var(--primary-color);
+  border-radius: 100px;
+  width: 146px;
+  height: 100%;
+  z-index: -1;
+}
+
+.banner-bar p {
+  color: #000;
+  font-size: 15px;
+}
+
+.banner-title {
+  padding: 0 55px;
+  text-align: center;
+}
+
+.banner-title h1 {
+  font-family: var(--orbitron-font-family);
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(90deg, #292929, #fff, #676767, #fff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  margin-bottom: 15px;
+}
+
+.banner-description {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.banner-contact {
+  text-align: center;
+}
+
+.banner-contact form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 15px auto 0;
+  max-width: 525px;
+  height: 80px;
+  border: 1px solid #404040;
+  border-radius: 10px;
+  background: #12121373;
+  padding: 5px 5px 5px 22px;
+}
+
+.banner-contact input {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  color: #fff;
+}
+
+.banner-contact input::placeholder {
+  color: #fff;
+}
+
+.hash-icon {
+  text-align: center;
+}
+
+.hash-icon img {
+  width: 28px;
+}
+
+/* banner css end */
