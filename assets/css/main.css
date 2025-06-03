@@ -173,9 +173,9 @@
   margin: 15px auto 0;
   max-width: 525px;
   height: 80px;
-  border: 1px solid #404040;
+  border: 1px solid var(--border-color);
   border-radius: 10px;
-  background: #12121373;
+  background: var(--background-secondary-color);
   padding: 5px 5px 5px 22px;
 }
 
@@ -199,3 +199,151 @@
 }
 
 /* banner css end */
+
+/* meet css start  */
+
+.meet-area {
+  position: relative;
+}
+
+.meet-shape-1 {
+  position: absolute;
+  bottom: -150px;
+  left: 0;
+  max-width: 600px;
+}
+
+.meet-wrap {
+  max-width: 1532px;
+  margin: 0 auto;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  background: var(--background-secondary-color);
+  backdrop-filter: blur(15px);
+  padding: 10px;
+  box-shadow: var(--box-shadow);
+}
+
+.meet-btn {
+  text-align: center;
+  margin: 20px 0 90px;
+}
+
+.meet-description {
+  max-width: 1145px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.meet-description h4 {
+  margin-bottom: 40px;
+}
+
+/* meet css end */
+
+/* feature css start  */
+
+.feature-area {
+  position: relative;
+}
+
+.feature-shape-1 {
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  max-width: 600px;
+}
+
+.feature-shape-2 {
+  position: absolute;
+  top: 150px;
+  right: 0;
+  max-width: 425px;
+}
+
+.feature-wrap {
+  max-width: 1532px;
+  margin: 0 auto;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  background: var(--background-secondary-color);
+  backdrop-filter: blur(15px);
+  padding: 10px;
+}
+
+.feature-btn {
+  text-align: center;
+  margin: 20px 0 40px;
+}
+
+.feature-btn a {
+  width: 325px;
+}
+
+.feature-description {
+  max-width: 1165px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 50px;
+  max-width: 1315px;
+  margin: auto;
+  padding: 20px;
+}
+
+.feature-item-wrap {
+  background: var(--background-secondary-color);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  grid-column: span 4;
+  box-shadow: var(--box-shadow);
+}
+
+.feature-item-wrap:nth-child(n + 4) {
+  grid-column: span 6;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.feature-item-icon img {
+  width: 30px;
+  height: 30px;
+}
+
+.feature-item-symbol {
+  text-align: center;
+}
+
+.feature-item-symbol img {
+  width: 150px;
+  height: 150px;
+}
+
+.feature-item-wrap:nth-child(n + 4) .feature-item-symbol img {
+  width: 200px;
+  height: 200px;
+}
+
+.feature-item-title h5 {
+  font-size: 20px;
+  margin: 30px 0 20px;
+}
+
+.feature-item-description {
+  max-width: 300px;
+}
+
+.feature-item-description p {
+  font-size: 14px;
+  color: #999;
+}
+
+/* feature css end */
