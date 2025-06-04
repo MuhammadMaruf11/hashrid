@@ -3,6 +3,7 @@
   /* Color Palette */
   --primary-color: #40dde3;
   --secondary-color: #121213;
+  --text-color: #999;
   --body-color: #dedede;
   --background-color: #1e1e20;
   --background-secondary-color: #12121373;
@@ -137,46 +138,6 @@ button:disabled {
   opacity: 0.6;
 }
 
-.section-title {
-  margin-bottom: 30px;
-}
-
-.section-title h2 {
-  color: var(--primary-color);
-  text-transform: uppercase;
-  position: relative;
-  margin-bottom: 12px;
-}
-
-.section-title h2::after {
-  position: absolute;
-  content: "";
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100px;
-  height: 3px;
-  background: linear-gradient(
-    90deg,
-    var(--secondary-color) 15%,
-    rgba(0, 0, 0, 0) 15%,
-    rgba(0, 0, 0, 0) 30%,
-    var(--primary-color) 30%
-  );
-}
-
-.form-control:focus,
-.form-control {
-  border-color: var(--border-color);
-  border-radius: 0;
-}
-.form-control:focus {
-  color: #191919;
-  background-color: transparent;
-  outline: 0;
-  box-shadow: none;
-}
-
 .btn:hover,
 .btn:focus {
   outline: 0;
@@ -216,6 +177,13 @@ button:disabled {
 
 .box-shadow {
   box-shadow: 0 0 5px var(--box-shadow-color);
+}
+
+.box-style {
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  background: var(--background-secondary-color);
+  box-shadow: var(--box-shadow);
 }
 
 /* Headings */
