@@ -1,0 +1,1068 @@
+@media (min-width: 1200px) and (max-width: 1599px) {
+  :root {
+    --h1-font-size: 2.5rem;
+    --h2-font-size: 2rem;
+    --h3-font-size: 1.75rem;
+    --h4-font-size: 1.35rem;
+    --h5-font-size: 1.25rem;
+    --h6-font-size: 1rem;
+  }
+
+  section {
+    padding: 40px 0;
+  }
+
+  .banner-shape-4 {
+    top: 120px;
+    max-width: 400px;
+  }
+
+  .banner-shape-5 {
+    max-width: 300px;
+  }
+
+  .banner-shape-6 {
+    bottom: 150px;
+    left: 0;
+  }
+
+  .meet-wrap {
+    max-width: 1200px;
+  }
+
+  .meet-shape-1 {
+    bottom: -120px;
+    left: 0;
+    max-width: 400px;
+  }
+
+  .feature-shape-1 {
+    max-width: 400px;
+  }
+
+  .feature-shape-2 {
+    max-width: 300px;
+  }
+  .feature-wrap {
+    max-width: 1200px;
+    padding-bottom: 25px;
+  }
+
+  .feature-item-wrap:nth-child(n + 4) .feature-item-symbol img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .feature-description {
+    max-width: 1050px;
+    margin-bottom: 25px;
+  }
+
+  .feature-grid {
+    gap: 35px;
+    max-width: 1150px;
+    padding: 15px;
+  }
+
+  .how-to-shape-1 {
+    max-width: 300px;
+  }
+
+  .how-to-use-content {
+    gap: 75px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .how-to-use-item .item-img {
+    padding: 0 30px;
+  }
+
+  .how-to-use-item .item-text {
+    padding: 15px 50px 30px 15px;
+  }
+
+  .our-partner-shape-1 {
+    max-width: 400px;
+    top: 10px;
+  }
+
+  .our-partner-shape-2 {
+    max-width: 300px;
+    bottom: 10px;
+  }
+
+  .our-partner-wrap {
+    max-width: 1200px;
+  }
+
+  .our-partner-title {
+    max-width: 1000px;
+  }
+
+  .our-partner-content {
+    max-width: 1150px;
+    margin: 0 auto 30px;
+    gap: 30px 65px;
+  }
+
+  .faq-area {
+    padding-top: 40px;
+  }
+
+  .faq-content {
+    gap: 20px 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .faq-summary h5 {
+    font-size: 18px;
+  }
+
+  .faq-item details p {
+    font-size: 15px;
+    max-width: 480px;
+  }
+
+  .faq-shape-1 {
+    max-width: 400px;
+  }
+
+  .cto-wrap {
+    max-width: 1000px;
+  }
+
+  .cto-title h2 span {
+    font-size: 50px;
+  }
+
+  .cto-title form {
+    max-width: 465px;
+  }
+
+  .cto-shape-1 {
+    max-width: 300px;
+  }
+
+  .footer-widget-wrap {
+    gap: 75px;
+  }
+
+  .footer-pages ul li {
+    margin-left: 35px;
+  }
+
+  .footer-social ul li {
+    margin-left: 12px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  :root {
+    --h1-font-size: 2rem;
+    --h2-font-size: 1.75rem;
+    --h3-font-size: 1.5rem;
+    --h4-font-size: 1.05rem;
+    --h5-font-size: 1rem;
+    --h6-font-size: 14px;
+  }
+
+  section {
+    padding: 40px 0;
+  }
+
+  .banner-wrap {
+    max-width: 960px;
+  }
+
+  .banner-heading {
+    margin-bottom: 30px;
+  }
+
+  .banner-heading h2 span {
+    font-size: 40px;
+  }
+
+  .banner-title {
+    margin-bottom: 15px;
+  }
+
+  .banner-title h1 span {
+    font-size: 60px;
+  }
+
+  .banner-contact form {
+    height: 70px;
+    padding: 0px 10px 0px 15px;
+  }
+
+  .banner-shape-4 {
+    top: 120px;
+    max-width: 400px;
+  }
+
+  .banner-shape-5 {
+    max-width: 300px;
+  }
+
+  .banner-shape-6 {
+    max-width: 150px;
+    bottom: 150px;
+    left: 0;
+  }
+
+  .banner-shape-7 {
+    right: -30px;
+    max-width: 150px;
+  }
+
+  .banner-shape-8 {
+    width: 1000px;
+    bottom: -15px;
+  }
+
+  .banner-shape-1 {
+    top: -50px;
+  }
+
+  .meet-wrap {
+    max-width: 960px;
+  }
+
+  .meet-shape-1 {
+    bottom: -120px;
+    left: 0;
+    max-width: 400px;
+  }
+
+  .meet-btn {
+    margin: 20px 0 40px;
+  }
+
+  .meet-description {
+    max-width: 800px;
+  }
+
+  .meet-description h4 {
+    margin-bottom: 20px;
+  }
+
+  .feature-shape-1 {
+    max-width: 400px;
+  }
+
+  .feature-shape-2 {
+    max-width: 300px;
+  }
+
+  .feature-wrap {
+    max-width: 960px;
+    padding-bottom: 5px;
+  }
+
+  .feature-description {
+    max-width: 800px;
+    margin-bottom: 25px;
+  }
+
+  .feature-grid {
+    gap: 15px;
+    max-width: 950px;
+    padding: 15px;
+  }
+
+  .feature-item-title h5 {
+    margin: 20px 0 15px;
+  }
+
+  .feature-item-wrap:nth-child(n + 4) .feature-item-symbol img {
+    width: 135px;
+    height: 135px;
+  }
+
+  .how-to-use-btn {
+    margin-bottom: 50px;
+  }
+
+  .how-to-shape-1 {
+    max-width: 300px;
+  }
+
+  .how-to-use-content {
+    gap: 25px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .how-to-use-item .item-img {
+    padding: 0 20px;
+  }
+
+  .how-to-use-item .item-text {
+    padding: 15px 50px 30px 15px;
+  }
+
+  .our-partner-shape-1 {
+    max-width: 400px;
+    top: 10px;
+  }
+
+  .our-partner-shape-2 {
+    max-width: 300px;
+    bottom: 10px;
+  }
+
+  .our-partner-wrap {
+    max-width: 960px;
+  }
+
+  .our-partner-title {
+    max-width: 800px;
+  }
+
+  .our-partner-content {
+    max-width: 900px;
+    margin: 0 auto 30px;
+    gap: 20px 45px;
+  }
+
+  .faq-area {
+    padding-top: 20px;
+  }
+
+  .faq-title {
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto 20px;
+  }
+
+  .faq-content {
+    gap: 20px 15px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .faq-item {
+    padding: 15px 20px;
+  }
+
+  .faq-summary h5 {
+    font-size: 18px;
+  }
+
+  .faq-item details p {
+    font-size: 15px;
+    max-width: 360px;
+  }
+
+  .faq-shape-1 {
+    max-width: 400px;
+  }
+
+  .cto-wrap {
+    max-width: 800px;
+  }
+
+  .cto-title h2 span {
+    font-size: 40px;
+  }
+
+  .cto-title form {
+    max-width: 350px;
+  }
+
+  .cto-shape-1 {
+    max-width: 300px;
+  }
+
+  .copyright-wrap p {
+    font-size: 12px;
+  }
+
+  .footer-widget-wrap {
+    gap: 25px;
+  }
+
+  .footer-social,
+  .footer-pages {
+    font-size: 12px;
+  }
+
+  .footer-pages ul li {
+    margin-left: 20px;
+  }
+
+  .footer-social ul li {
+    margin-left: 12px;
+  }
+
+  .footer-area {
+    padding: 0 50px 30px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  :root {
+    --h1-font-size: 2rem;
+    --h2-font-size: 1.75rem;
+    --h3-font-size: 1.5rem;
+    --h4-font-size: 1.25rem;
+    --h5-font-size: 20px;
+    --h6-font-size: 18px;
+  }
+
+  .btn-theme {
+    width: 150px;
+    height: 40px;
+    font-size: 14px;
+  }
+
+  section {
+    padding: 40px 0;
+  }
+
+  .banner-wrap {
+    max-width: 720px;
+  }
+
+  .banner-heading {
+    margin-bottom: 30px;
+  }
+
+  .banner-heading h2 span {
+    font-size: 40px;
+  }
+
+  .banner-title {
+    margin-bottom: 15px;
+  }
+
+  .banner-title h1 span {
+    font-size: 40px;
+  }
+
+  .banner-description {
+    margin-bottom: 35px;
+  }
+
+  .banner-contact form {
+    height: 50px;
+    padding: 0px 5px 0px 15px;
+    max-width: 450px;
+  }
+
+  .banner-shape-4 {
+    top: 120px;
+    max-width: 400px;
+  }
+
+  .banner-shape-5 {
+    max-width: 300px;
+  }
+
+  .banner-shape-6 {
+    max-width: 150px;
+    bottom: 150px;
+    left: 0;
+  }
+
+  .banner-shape-7 {
+    right: -30px;
+    max-width: 150px;
+  }
+
+  .banner-shape-8 {
+    width: 740px;
+    bottom: -5px;
+  }
+
+  .banner-shape-1 {
+    top: -30px;
+  }
+
+  .banner-shape-2 {
+    top: 60px;
+    left: 40px;
+    max-width: 275px;
+  }
+
+  .banner-shape-3 {
+    top: 70px;
+    right: 30px;
+    max-width: 320px;
+  }
+
+  .meet-wrap {
+    max-width: 720px;
+  }
+
+  .meet-shape-1 {
+    bottom: -120px;
+    left: 0;
+    max-width: 400px;
+  }
+
+  .meet-btn {
+    margin: 20px 0 40px;
+  }
+
+  .meet-description {
+    max-width: 650px;
+  }
+
+  .meet-description h4 {
+    margin-bottom: 20px;
+  }
+
+  .feature-shape-1 {
+    max-width: 400px;
+  }
+
+  .feature-shape-2 {
+    max-width: 300px;
+  }
+
+  .feature-wrap {
+    max-width: 720px;
+    padding-bottom: 5px;
+  }
+
+  .feature-description {
+    max-width: 650px;
+    margin-bottom: 25px;
+  }
+
+  .feature-item-symbol img {
+    width: 75px;
+    height: 75px;
+  }
+
+  .feature-item-wrap {
+    padding: 12px;
+  }
+
+  .feature-item-description p {
+    font-size: 12px;
+  }
+
+  .feature-grid {
+    gap: 12px;
+    max-width: 720px;
+    padding: 12px;
+  }
+
+  .feature-item-title h5 {
+    margin: 20px 0 15px;
+  }
+
+  .feature-item-wrap:nth-child(n + 4) .feature-item-symbol img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .how-to-use-btn {
+    margin-bottom: 50px;
+  }
+
+  .how-to-shape-1 {
+    max-width: 300px;
+  }
+
+  .how-to-use-content {
+    gap: 12px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .how-to-use-item .item-img {
+    padding: 0px 10px;
+  }
+
+  .how-to-use-item .item-text {
+    padding: 10px 35px 20px 10px;
+  }
+
+  .our-partner-shape-1 {
+    max-width: 400px;
+    top: 10px;
+  }
+
+  .our-partner-shape-2 {
+    max-width: 300px;
+    bottom: 10px;
+  }
+
+  .our-partner-wrap {
+    max-width: 720px;
+  }
+
+  .our-partner-title {
+    max-width: 650px;
+  }
+
+  .our-partner-content {
+    max-width: 680px;
+    margin: 0 auto 30px;
+    gap: 12px;
+  }
+
+  .our-partner-item {
+    padding: 12px;
+  }
+
+  .faq-area {
+    padding-top: 20px;
+  }
+
+  .faq-title {
+    max-width: 650px;
+    text-align: center;
+    margin: 0 auto 20px;
+  }
+
+  .faq-content {
+    gap: 15px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .faq-item {
+    padding: 12px;
+  }
+
+  .faq-summary h5 {
+    font-size: 18px;
+  }
+
+  .faq-item details p {
+    font-size: 15px;
+    max-width: 300px;
+  }
+
+  .faq-shape-1 {
+    max-width: 400px;
+  }
+
+  .cto-area {
+    padding-bottom: 100px;
+  }
+
+  .cto-wrap {
+    max-width: 650px;
+  }
+
+  .cto-title h2 span {
+    font-size: 32px;
+  }
+
+  .cto-title form {
+    max-width: 300px;
+    height: 50px;
+    padding: 5px;
+  }
+
+  .cto-shape-1 {
+    max-width: 300px;
+  }
+
+  .cto-title input {
+    font-size: 12px;
+  }
+
+  .cto-title input::placeholder {
+    font-size: 12px;
+  }
+
+  .copyright-wrap p {
+    font-size: 10px;
+  }
+
+  .footer-widget-wrap {
+    gap: 12px;
+  }
+
+  .footer-social,
+  .footer-pages {
+    font-size: 10px;
+  }
+
+  .footer-pages ul li {
+    margin-left: 12px;
+  }
+
+  .footer-social ul li {
+    margin-left: 5px;
+  }
+
+  .footer-area {
+    padding: 0 25px 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  :root {
+    --h1-font-size: 1.75rem;
+    --h2-font-size: 1.5rem;
+    --h3-font-size: 1.25rem;
+    --h4-font-size: 1.25rem;
+    --h5-font-size: 20px;
+    --h6-font-size: 18px;
+  }
+
+  .header-area {
+    padding: 20px;
+  }
+
+  .btn-theme {
+    width: 120px;
+    height: 40px;
+    font-size: 10px;
+  }
+
+  section {
+    padding: 20px 0;
+  }
+
+  .banner-wrap {
+    max-width: 95%;
+    padding: 12px;
+  }
+
+  .banner-inside-wrap {
+    padding: 12px;
+  }
+
+  .banner-heading {
+    margin-bottom: 20px;
+  }
+  .banner-heading h2 span {
+    font-size: 25px;
+  }
+
+  .banner-bar {
+    max-width: 220px;
+    border-radius: 100px;
+  }
+
+  .banner-bar::before {
+    width: 100px;
+  }
+
+  .banner-title {
+    margin-bottom: 15px;
+    padding: 0;
+  }
+
+  .banner-title h1 span {
+    font-size: 25px;
+  }
+
+  .banner-description {
+    margin-bottom: 5px;
+  }
+
+  .banner-description h4,
+  .banner-contact h4 {
+    font-size: 12px;
+  }
+
+  .banner-contact form {
+    height: 40px;
+    padding: 0px 5px 0px 15px;
+    max-width: 275px;
+  }
+
+  .banner-contact input {
+    font-size: 12px;
+  }
+
+  .banner-contact input::placeholder {
+    font-size: 12px;
+  }
+
+  .hash-icon img {
+    width: 15px;
+  }
+
+  .banner-shape-4 {
+    top: 120px;
+    max-width: 400px;
+  }
+
+  .banner-shape-5 {
+    max-width: 300px;
+  }
+
+  .banner-shape-6 {
+    max-width: 90px;
+    bottom: 100px;
+    left: 0;
+  }
+
+  .banner-shape-7 {
+    right: 0;
+    max-width: 90px;
+  }
+
+  .banner-shape-8 {
+    width: 100%;
+    bottom: -5px;
+  }
+
+  .banner-shape-1 {
+    top: -30px;
+  }
+
+  .banner-shape-2 {
+    top: 60px;
+    left: 0;
+    max-width: 200px;
+  }
+
+  .banner-shape-3 {
+    top: 150px;
+    right: 0;
+    max-width: 200px;
+  }
+
+  .meet-wrap {
+    max-width: 95%;
+  }
+
+  .meet-shape-1 {
+    bottom: -50px;
+    left: 0;
+    max-width: 150px;
+  }
+
+  .meet-btn {
+    margin: 20px 0;
+  }
+
+  .meet-description {
+    width: 100%;
+  }
+
+  .meet-description h4 {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+  .feature-shape-1 {
+    max-width: 150px;
+  }
+
+  .feature-shape-2 {
+    max-width: 100px;
+  }
+
+  .feature-wrap {
+    max-width: 95%;
+    padding-bottom: 5px;
+  }
+
+  .feature-description {
+    max-width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .feature-description h4 {
+    font-size: 14px;
+  }
+
+  .feature-item-symbol img {
+    width: 75px;
+    height: 75px;
+  }
+
+  .feature-item-wrap {
+    padding: 12px;
+  }
+
+  .feature-item-description p {
+    font-size: 12px;
+  }
+
+  .feature-grid {
+    gap: 12px 0;
+    max-width: 100%;
+    grid-template-columns: repeat(1, 1fr);
+    padding: 12px;
+  }
+
+  .feature-item-title h5 {
+    margin: 20px 0 15px;
+  }
+
+  .feature-item-wrap:nth-child(n + 4) .feature-item-symbol img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .how-to-use-btn {
+    margin-bottom: 50px;
+  }
+
+  .how-to-shape-1 {
+    max-width: 100px;
+  }
+
+  .how-to-use-content {
+    gap: 12px 0;
+    max-width: 95%;
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0 auto;
+  }
+
+  .how-to-use-item .item-img {
+    padding: 0px 65px;
+  }
+
+  .how-to-use-item .item-text {
+    padding: 10px 35px 20px 10px;
+  }
+
+  .our-partner-shape-1 {
+    max-width: 150px;
+    top: 10px;
+  }
+
+  .our-partner-shape-2 {
+    max-width: 100px;
+    bottom: 10px;
+  }
+
+  .our-partner-wrap {
+    max-width: 95%;
+    padding: 12px;
+  }
+
+  .our-partner-title {
+    max-width: 100%;
+  }
+
+  .our-partner-title h4 {
+    font-size: 14px;
+  }
+
+  .our-partner-content {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 100%;
+    margin: 0 auto 15px;
+    gap: 12px;
+  }
+
+  .our-partner-item {
+    padding: 12px;
+  }
+
+  .faq-area {
+    padding-top: 20px;
+  }
+
+  .faq-wrap {
+    max-width: 95%;
+  }
+
+  .faq-title {
+    max-width: 100%;
+    text-align: center;
+    margin: 0 auto 20px;
+  }
+
+  .faq-title h4 {
+    max-width: 100%;
+    font-size: 14px;
+  }
+
+  .faq-content {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 12px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .faq-item {
+    padding: 12px;
+  }
+
+  .faq-summary h5 {
+    font-size: 18px;
+  }
+
+  .faq-item details p {
+    font-size: 15px;
+    max-width: 300px;
+  }
+
+  .faq-shape-1 {
+    max-width: 150px;
+  }
+
+  .cto-area {
+    padding-bottom: 50px;
+  }
+
+  .cto-wrap {
+    max-width: 95%;
+  }
+
+  .cto-title h2 span {
+    font-size: 18px;
+  }
+
+  .cto-title form {
+    max-width: 100%;
+    height: 50px;
+    padding: 5px;
+  }
+
+  .cto-shape-1 {
+    max-width: 100px;
+    top: 0;
+  }
+
+  .cto-title input {
+    font-size: 12px;
+  }
+
+  .cto-title input::placeholder {
+    font-size: 12px;
+  }
+
+  .footer-wrap {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .copyright-wrap p {
+    font-size: 10px;
+  }
+
+  .footer-widget-wrap {
+    gap: 12px;
+    flex-direction: column;
+  }
+
+  .footer-social,
+  .footer-pages {
+    font-size: 10px;
+  }
+
+  .footer-pages ul li {
+    margin-left: 30px;
+  }
+
+  .footer-pages ul li:first-child {
+    margin-left: 0;
+  }
+
+  .footer-social ul li {
+    margin-left: 12px;
+  }
+
+  .footer-area {
+    padding: 0 15px 15px;
+  }
+}

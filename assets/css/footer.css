@@ -26,6 +26,7 @@
 .footer-social,
 .footer-pages {
   display: flex;
+  align-items: center;
   font-family: var(--orbitron-font-family);
   font-size: 15px;
   color: #fff;
